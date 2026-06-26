@@ -1,24 +1,32 @@
-# 🐍 Python 100 Days of Code - Engineering Portfolio
+# 🐍 Python 100 Days of Code
 
-This repository documents my progression from Python fundamentals to advanced software engineering concepts. Rather than simply following tutorials, I am focusing on writing clean, DRY code, understanding execution flow, and adopting defensive programming practices.
+This repository documents my journey of learning Python by building projects every day. Each project focuses on understanding the concepts, writing clean code, and improving problem-solving skills instead of just completing tutorials.
 
 ## 🎯 Current Focus
-Mastering core Python, control flows, data structures, and modular programming before transitioning into APIs, OOP, ands Development.
 
-## 🛠️ Skills & Concepts Mastered
-* **Fundamentals:** Variables, Type Casting, CLI Interaction
-* **Control Flow:** `if/elif/else`, Logical Operators, Loops (`for`, `while`)
-* **Data Structures:** Lists, String Manipulation
-* **Best Practices:** Defensive Programming, Error Handling (Index Errors), DRY Code Principles
+I'm currently learning Python fundamentals, including variables, data types, user input, control flow, loops, functions, and data structures. As I progress, this repository will grow with more challenging projects covering object-oriented programming, file handling, APIs, databases, and web development.
 
-## 🚀 Project Highlights: Phase 1 (Fundamentals)
+## 🛠️ Skills Covered
 
-| Day | Project | Core Concepts Applied                         |
-| :--- | :--- |:----------------------------------------------|
-| 
-| [Day 01](./Phase-1_Python-Fundamentals/Day01_Band_Name_Generator) | **Band Name Generator** | Print, Input, String Concatenation, variables |
+* **Python Basics:** Variables, Data Types, Type Casting
+* **User Interaction:** Input and Output
+* **Control Flow:** `if`, `elif`, `else`
+* **Loops:** `for`, `while`
+* **Data Structures:** Lists, Strings
+* **Programming Practices:** Writing readable and reusable code
 
-*(Note: Minor exercises are omitted. Only core projects demonstrating distinct concepts are highlighted here.)*
+## 🚀 Projects
 
-## 📈 Long-Term Objective
-Build a strong, verifiable portfolio of independent, real-world projects to secure a remote software engineering opportunity.
+| Day                                                          | Project                 | Concepts                                       |
+| ------------------------------------------------------------ | ----------------------- | ---------------------------------------------- |
+| [Day 01](./01_Python_Fundamentals/Day01_Band_Name_Generator) | **Band Name Generator** | Variables, Input, Output, String Concatenation |
+
+> Small practice exercises are not included. This repository highlights complete projects that demonstrate what I've learned.
+
+## 📈 Goal
+
+My goal is to build a strong Python foundation, create practical projects, and develop the skills needed for backend development and remote software engineering opportunities.
+
+---
+
+⭐ More projects will be added as I continue the challenge.
