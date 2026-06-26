@@ -1,28 +1,24 @@
-# 100 Days of Python 🐍
+# 🐍 Python 100 Days of Code - Engineering Portfolio
 
-Completing Angela Yu's 100 Days of Code on Udemy — one project per day, every project functional and documented.
+This repository documents my progression from Python fundamentals to advanced software engineering concepts. Rather than simply following tutorials, I am focusing on writing clean, DRY code, understanding execution flow, and adopting defensive programming practices.
 
-## 📁 Structure
+## 🎯 Current Focus
+Mastering core Python, control flows, data structures, and modular programming before transitioning into APIs, OOP, ands Development.
 
-100-days-of-python/
-├── 01_Python_Fundamentals/
-│ ├── Day01_Band_Name_Generator/
+## 🛠️ Skills & Concepts Mastered
+* **Fundamentals:** Variables, Type Casting, CLI Interaction
+* **Control Flow:** `if/elif/else`, Logical Operators, Loops (`for`, `while`)
+* **Data Structures:** Lists, String Manipulation
+* **Best Practices:** Defensive Programming, Error Handling (Index Errors), DRY Code Principles
 
-## 📋 Projects
+## 🚀 Project Highlights: Phase 1 (Fundamentals)
 
-| Day | Project                                                                    | Concepts                                   |
-| --- | -------------------------------------------------------------------------- | ------------------------------------------ |
-| 01  | [Band Name Generator](./01_Python_Fundamentals/Day01_Band_Name_Generator/) | `input()`, variables, string concatenation |
+| Day | Project | Core Concepts Applied                         |
+| :--- | :--- |:----------------------------------------------|
+| 
+| [Day 01](./Phase-1_Python-Fundamentals/Day01_Band_Name_Generator) | **Band Name Generator** | Print, Input, String Concatenation, variables |
 
-## 🎯 Goal
+*(Note: Minor exercises are omitted. Only core projects demonstrating distinct concepts are highlighted here.)*
 
-Build real Python skills through daily projects. Each project is written from scratch, tested, and documented.
-
-## 🛠️ Tools & Languages
-
-- Python 3
-- PyCharm
-
-## 📌 Status
-
-🟢 Active — updating daily
+## 📈 Long-Term Objective
+Build a strong, verifiable portfolio of independent, real-world projects to secure a remote software engineering opportunity.
