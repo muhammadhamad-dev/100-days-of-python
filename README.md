@@ -1,32 +1,26 @@
-# 🐍 Python 100 Days of Code
+# 100 Days of Python 🐍
 
-This repository documents my journey of learning Python by building projects every day. Each project focuses on understanding the concepts, writing clean code, and improving problem-solving skills instead of just completing tutorials.
+Following Angela Yu's 100 Days of Code on Udemy.
+One project per day, written from scratch and documented.
 
-## 🎯 Current Focus
+## Projects
 
-I'm currently learning Python fundamentals, including variables, data types, user input, control flow, loops, functions, and data structures. As I progress, this repository will grow with more challenging projects covering object-oriented programming, file handling, APIs, databases, and web development.
+| Day | Project | Concepts |
+|-----|---------|----------|
+| [Day 01](./Phase-1_Python-Fundamentals/Day01_Band_Name_Generator/) | Band Name Generator | `input()`, variables, string concatenation |
+| [Day 02](./Phase-1_Python-Fundamentals/Day02_Tip_Calculator/) | Tip Calculator | type conversion, arithmetic, f-strings |
+| [Day 03](./Phase-1_Python-Fundamentals/Day03_Treasure_Island/) | Treasure Island | nested conditionals, `if/elif/else` |
+| [Day 04](./Phase-1_Python-Fundamentals/Day04_Rock_Paper_Scissors/) | Rock Paper Scissors | lists, `random`, input validation |
+| [Day 05](./Phase-1_Python-Fundamentals/Day05_Password_Generator/) | Password Generator | loops, `random.shuffle()`, `.join()` |
+| [Day 06](./Phase-1_Python-Fundamentals/Day06_Functions_Intro/) | Functions & Loops | `def`, `while` loops, Reeborg's World |
+| [Day 07](./Phase-1_Python-Fundamentals/Day07_Hangman/) | Hangman | modules, game state, list indexing |
+| [Day 08](./Phase-1_Python-Fundamentals/Day08_Caesar_Cipher/) | Caesar Cipher | functions, modulo, encryption logic |
+> *Note: Only core projects demonstrating standalone application logic are highlighted here.*
+## Current Focus
+Phase 1 — Python Fundamentals
 
-## 🛠️ Skills Covered
+## Goal
+Build a project-based Python portfolio for remote backend development work.
 
-* **Python Basics:** Variables, Data Types, Type Casting
-* **User Interaction:** Input and Output
-* **Control Flow:** `if`, `elif`, `else`
-* **Loops:** `for`, `while`
-* **Data Structures:** Lists, Strings
-* **Programming Practices:** Writing readable and reusable code
-
-## 🚀 Projects
-
-| Day                                                          | Project                 | Concepts                                       |
-| ------------------------------------------------------------ | ----------------------- | ---------------------------------------------- |
-| [Day 01](./01_Python_Fundamentals/Day01_Band_Name_Generator) | **Band Name Generator** | Variables, Input, Output, String Concatenation |
-
-> Small practice exercises are not included. This repository highlights complete projects that demonstrate what I've learned.
-
-## 📈 Goal
-
-My goal is to build a strong Python foundation, create practical projects, and develop the skills needed for backend development and remote software engineering opportunities.
-
----
-
-⭐ More projects will be added as I continue the challenge.
+## Status
+🟢 Active — updated daily
