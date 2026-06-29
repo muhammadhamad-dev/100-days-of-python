@@ -11,7 +11,7 @@ After all bids are entered, the program reveals the highest bidder.
 
 ## How to Run
 ```bash
-python main.py
+python blind_auction_project.py
 ```
 
 ## Example
